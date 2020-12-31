@@ -1,0 +1,8 @@
+{
+  "name": "gm-cli",
+  "version": "0.1.0",
+  "description": "A cli tool for init projects",
+  "repository": "https://github.com/Gu-Miao/gm-cli.git",
+  "author": "Gu-Miao <1450206741@qq.com>",
+  "license": "MIT"
+}
