@@ -5,18 +5,18 @@ A cli tool kit for daily use based on commander.
 ## Install
 
 ```bash
-npm i gm-cli -g
+npm i @gutianhuang/gm-cli -g
 # Or use yarn
-yarn global add gm-cli
+yarn global add @gutianhuang/gm-cli
 ```
 
 ## Commands
 
-### `init <projectName>`
+### `gm-cli init <projectName>`
 
 Create a new project, `process.cwd()/projectName` must not exist.
 
-### `st`
+### `gm-cli st`
 
 Show all the templates:
 
@@ -43,11 +43,11 @@ There is no svelte template yet.
 
 ## Options
 
-### `-V --version`
+### `gm-cli -V --version`
 
 Show version of CLI.
 
-### `-h --help`
+### `gm-cli -h --help`
 
 Display help for CLI.
 
