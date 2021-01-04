@@ -1,0 +1,23 @@
+{
+  "h5": {
+    "html5-boilerplate": {
+      "url": "direct:https://github.com/h5bp/html5-boilerplate/releases/download/v8.0.0/html5-boilerplate_v8.0.0.zip",
+      "homepage": "https://github.com/h5bp/html5-boilerplate",
+      "author": "h5bp <https://h5bp.org>"
+    }
+  },
+  "react": {
+    "react-template-ejected-cra": {
+      "url": "github:Gu-Miao/react-template-ejected-cra",
+      "homepage": "https://github.com/Gu-Miao/react-template-ejected-cra",
+      "author": "Gu-Miao <1450206741@qq.com>"
+    },
+    "react-template-antd-craco": {
+      "url": "github:Gu-Miao/react-template-antd-craco",
+      "homepage": "https://github.com/Gu-Miao/react-template-antd-craco",
+      "author": "Gu-Miao <1450206741@qq.com>"
+    }
+  },
+  "vue": {},
+  "svelte": {}
+}
