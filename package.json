@@ -1,8 +1,20 @@
 {
   "name": "gm-cli",
   "version": "0.1.0",
-  "description": "A cli tool for init projects",
+  "description": "A cli tool kit for daily use",
   "repository": "https://github.com/Gu-Miao/gm-cli.git",
   "author": "Gu-Miao <1450206741@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/Gu-Miao/gm-cli",
+  "bin": {
+    "gm-cli": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^4.0.0",
+    "ora": "^5.2.0"
+  }
 }
