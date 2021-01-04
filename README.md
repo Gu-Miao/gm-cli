@@ -1,4 +1,4 @@
-# gm-cli
+# @gutianhuang/gm-cli
 
 A cli tool kit for daily use based on commander.
 
