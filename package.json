@@ -1,5 +1,5 @@
 {
-  "name": "gm-cli",
+  "name": "@gutianhuang/gm-cli",
   "version": "1.0.0",
   "description": "A cli tool kit for daily use",
   "repository": "https://github.com/Gu-Miao/gm-cli.git",
