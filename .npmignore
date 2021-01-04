@@ -1,3 +1,10 @@
 # Ingore lock files
 package-lock.json
 yarn.lock
+
+# Ingore prettier configs
+.prettierignore
+.prettierrc.*
+
+# Ingore editorconfig
+.editorconfig
