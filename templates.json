@@ -4,6 +4,11 @@
       "url": "direct:https://github.com/h5bp/html5-boilerplate/releases/download/v8.0.0/html5-boilerplate_v8.0.0.zip",
       "homepage": "https://github.com/h5bp/html5-boilerplate",
       "author": "h5bp <https://h5bp.org>"
+    },
+    "component-maker": {
+      "url": "github:Gu-Miao/component-maker",
+      "homepage": "https://github.com/Gu-Miao/component-maker",
+      "auther": "Gu-Miao <1450206741@qq.com>"
     }
   },
   "react": {
