@@ -12,3 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Add 2 react templates and 1 h5 template
 * Add init command for creating project.
 * Add st command for showing all the templates.
+
+## 1.0.1 - 2021-05-18
+
+### Added
+
+* Add component-maker
