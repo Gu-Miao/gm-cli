@@ -22,16 +22,18 @@ Show all the templates:
 
 - h5
 
-| name              | homepage                                  | author                  |
-| ----------------- | ----------------------------------------- | ----------------------- |
-| html5-boilerplate | https://github.com/h5bp/html5-boilerplate | h5bp <https://h5bp.org> |
+| name              | homepage                                   | author                      |
+| ----------------- | ------------------------------------------ | --------------------------- |
+| html5-boilerplate | https://github.com/h5bp/html5-boilerplate  | h5bp <https://h5bp.org>     |
+| component-maker   | https://github.com/Gu-Miao/component-maker | Gu-Miao <1450206741@qq.com> |
 
 - react
 
-| name                       | homepage                                              | author                      |
-| -------------------------- | ----------------------------------------------------- | --------------------------- |
-| react-template-ejected-cra | https://github.com/Gu-Miao/react-template-ejected-cra | Gu-Miao <1450206741@qq.com> |
-| react-template-antd-craco  | https://github.com/Gu-Miao/react-template-antd-craco  | Gu-Miao <1450206741@qq.com> |
+| name                       | homepage                                               | author                                          |
+| -------------------------- | ------------------------------------------------------ | ----------------------------------------------- |
+| react-template-ejected-cra | https://github.com/Gu-Miao/react-template-ejected-cra  | Gu-Miao <1450206741@qq.com>                     |
+| react-template-antd-craco  | https://github.com/Gu-Miao/react-template-antd-craco   | Gu-Miao <1450206741@qq.com>                     |
+| react-boilerplate          | https://github.com/react-boilerplate/react-boilerplate | react-boilerplate <http://reactboilerplate.com> |
 
 - vue
 

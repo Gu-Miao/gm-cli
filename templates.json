@@ -21,6 +21,11 @@
       "url": "github:Gu-Miao/react-template-antd-craco",
       "homepage": "https://github.com/Gu-Miao/react-template-antd-craco",
       "author": "Gu-Miao <1450206741@qq.com>"
+    },
+    "react-boilerplate": {
+      "url": "github:react-boilerplate/react-boilerplate",
+      "homepage": "https://github.com/react-boilerplate/react-boilerplate",
+      "author": "react-boilerplate <http://reactboilerplate.com>"
     }
   },
   "vue": {},
